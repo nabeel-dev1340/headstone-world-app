@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.env
+
+# Custom ignore pattern
+deposits_with_totals_*.xlsx

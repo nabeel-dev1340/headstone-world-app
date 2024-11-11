@@ -1,0 +1,627 @@
+[
+  {
+    "Model": "bench01",
+    "line 1": "overall dimensions",
+    "line 2": "57\"w X 20\"h X 10\"d"
+  },
+  {
+    "Model": "bench02",
+    "line 1": "overall dimensions",
+    "line 2": "35\"w X 24\"h X 8\"d"
+  },
+  {
+    "Model": "bench03",
+    "line 1": "overall dimensions",
+    "line 2": "36\"w X 32\"h X 12\"d"
+  },
+  {
+    "Model": "bench04",
+    "line 1": "overall dimensions",
+    "line 2": "48\"w X 16\"h X 14\"d"
+  },
+  {
+    "Model": "bench05",
+    "line 1": "overall dimensions",
+    "line 2": "54\"w X 18\"h X 14\"d"
+  },
+  {
+    "Model": "bench06",
+    "line 1": "overall dimensions",
+    "line 2": "37\"w X 18\"h X 14\"d"
+  },
+  {
+    "Model": "bench07",
+    "line 1": "overall dimensions",
+    "line 2": "50\"w X 44\"h X 22\"d"
+  },
+  {
+    "Model": "bench08",
+    "line 1": "overall dimensions",
+    "line 2": "48\"w X 15\"h X 10\"d"
+  },
+  {
+    "Model": "bench09",
+    "line 1": "overall dimensions",
+    "line 2": "72\"w X 28\"h X 44\"d"
+  },
+  {
+    "Model": "bench10",
+    "line 1": "overall dimensions",
+    "line 2": "72\"w X 28\"h X 44\"d"
+  },
+  {
+    "Model": "bench11",
+    "line 1": "overall dimensions",
+    "line 2": "72\"w X 36\"h X 31\"d"
+  },
+  {
+    "Model": "bench12",
+    "line 1": "overall dimensions",
+    "line 2": "36\"w X 30\"h X 18\"d"
+  },
+  {
+    "Model": "bronze_16x24",
+    "line 1": "",
+    "line 2": "16\"w X 24\"h"
+  },
+  {
+    "Model": "bronze_24x10",
+    "line 1": "",
+    "line 2": "24\"w X 10\"h"
+  },
+  {
+    "Model": "bronze_24x12",
+    "line 1": "",
+    "line 2": "24\"w X 12\"h"
+  },
+  {
+    "Model": "bronze_24x14",
+    "line 1": "",
+    "line 2": "24\"w X 14\"h"
+  },
+  {
+    "Model": "bronze_24x30",
+    "line 1": "",
+    "line 2": "24\"w X 30\"h"
+  },
+  {
+    "Model": "bronze_36x13",
+    "line 1": "",
+    "line 2": "36\"w X 13\"h"
+  },
+  {
+    "Model": "bronze_44x14 ",
+    "line 1": "",
+    "line 2": "44\"w X 14\"h"
+  },
+  {
+    "Model": "cross01",
+    "line 1": "Top 30\"w X 24\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross01D",
+    "line 1": "Top 48\"w X 30\"h X 6\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross02",
+    "line 1": "Top 24\"w X 30\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross03",
+    "line 1": "Top 26\"w X 26\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross03D",
+    "line 1": "Top 48\"w X 30\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "cross04",
+    "line 1": "Top 32\"w X 24\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross05",
+    "line 1": "Top 22\"w X 42\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross06",
+    "line 1": "Top 24\"w X 46\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross07",
+    "line 1": "Top 20\"w X 38\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross08",
+    "line 1": "Top 20\"w X 38\"h X 6\"d",
+    "line 2": "Base  36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross09",
+    "line 1": "Top 48\"w X 28\"h X 6\"d",
+    "line 2": "Base 66\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "cross10",
+    "line 1": "Top 48\"w X 34\"h X 8\"d",
+    "line 2": "Base 66\"w X 20\"h X 24\"d"
+  },
+  {
+    "Model": "cross11",
+    "line 1": "Top 24\"w X 30\"h X 6\"d",
+    "line 2": "Base  36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross11D",
+    "line 1": "Top 60\"w X 36\"h X 6\"d",
+    "line 2": "Base 84\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "cross12",
+    "line 1": "Top 48\"w X 30\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "cross13",
+    "line 1": "Top 60\"w X 40\"h X 6\"d",
+    "line 2": "Base 66\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "cross14",
+    "line 1": "Top 60\"w X 72\"h X 8\"d",
+    "line 2": "Base 72\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "heart01",
+    "line 1": "Top 30\"w X 24\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart02",
+    "line 1": "Top 24\"w X 30\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart03",
+    "line 1": "Top 30\"w X 28\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart04",
+    "line 1": "Top 24\"w X 30\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart05",
+    "line 1": "Top 30\"w X 48\"h X 6\"d",
+    "line 2": "Base 48\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart06",
+    "line 1": "Top 30\"w X 30\"h X 8\"d",
+    "line 2": "Base 36\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "heart07",
+    "line 1": "Top 32\"w X 34\"h X 8\"d",
+    "line 2": "Base 36\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "heart08",
+    "line 1": "Top 30\"w X 36\"h X 8\"d",
+    "line 2": "Base 36\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "heart09",
+    "line 1": "Top 48\"w X 30\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart10",
+    "line 1": "Top 36\"w X 48\"h X 6\"d",
+    "line 2": "Base 48\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart11",
+    "line 1": "Top 66\"w X 30\"h X 6\"d",
+    "line 2": "Base 72\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart12",
+    "line 1": "Top 42\"w X 30\"h X 6\"d",
+    "line 2": "Base 60\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "heart13",
+    "line 1": "Top 55\"w X 32\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "heart14",
+    "line 1": "Top 24\"w X 24\"h X 8\"d",
+    "line 2": "Base 36\"w X 12\"h X 12\"d"
+  },
+  {
+    "Model": "heart15",
+    "line 1": "Top 36\"w X 39\"h X 8\"d",
+    "line 2": "Base 48\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "heart16",
+    "line 1": "Top 24\"w X 30\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy01",
+    "line 1": "Top 30\"w X 24\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy02",
+    "line 1": "Top 24\"w X 30\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy03",
+    "line 1": "Top 36\"w X 32\"h X 8\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy04",
+    "line 1": "Top 32\"w X 24\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy04D",
+    "line 1": "Top 48\"w X 30\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "legacy05",
+    "line 1": "Top 24\"w X 42\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy06",
+    "line 1": "Top 24\"w X 36\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy07",
+    "line 1": "Top 24\"w X 42\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy08",
+    "line 1": "Top 24\"w X 42\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy09",
+    "line 1": "Top 48\"w X 30\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "legacy10",
+    "line 1": "Top 48\"w X 24\"h X 6\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy11",
+    "line 1": "Top 48\"w X 28\"h X 6\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy12",
+    "line 1": "Top 48\"w X 28\"h X 6\"d",
+    "line 2": "Base 60\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy13",
+    "line 1": "Top 48\"w X 30\"h X 6\"d",
+    "line 2": "Base 60\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy14",
+    "line 1": "Top 48\"w X 32\"h X 6\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy15",
+    "line 1": "Top 48\"w X 40\"h X 6\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy16",
+    "line 1": "Top 48\"w X 28\"h X 6\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy17",
+    "line 1": "Top 48\"w X 28\"h X 6\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy18",
+    "line 1": "Top 54\"w X 30\"h X 8\"d",
+    "line 2": "Base 60\"w X 8\"h X 18\"d"
+  },
+  {
+    "Model": "legacy19",
+    "line 1": "Top 48\"w X 32\"h X 6\"d",
+    "line 2": "Base 60\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy20",
+    "line 1": "Top 18\"w X 34\"h X 6\"d",
+    "line 2": "Base 28\"w X 6\"h X 14\"d"
+  },
+  {
+    "Model": "legacy21",
+    "line 1": "Top 48\"w X 28\"h X 6\"d",
+    "line 2": "Base 60\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "legacy22",
+    "line 1": "Top 48\"w X 60\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "legacy23",
+    "line 1": "Top 30\"w X 48\"h X 6\"d",
+    "line 2": "Base 27\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "plural01",
+    "line 1": "Top 60\"w X 48\"h X 6\"d",
+    "line 2": "Base 72\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "plural02",
+    "line 1": "Top 70\"w X 48\"h X 10\"d",
+    "line 2": "Base 72\"w X 8\"h X 10\"d"
+  },
+  {
+    "Model": "plural03",
+    "line 1": "Top 58\"w X 30\"h X 6\"d",
+    "line 2": "Base 72\"w X 6\"h X 14\"d"
+  },
+  {
+    "Model": "plural04",
+    "line 1": "Top 46\"w X 30\"h X 8\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "plural05",
+    "line 1": "Top 24\"w X 30\"h X 8\"d",
+    "line 2": "Base 27\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "plural06",
+    "line 1": "Top 20\"w X 20\"h X 14\"d",
+    "line 2": "Base 36\"w X 6\"h X 14\"d"
+  },
+  {
+    "Model": "plural07",
+    "line 1": "Top 30\"w X 48\"h X 6\"d",
+    "line 2": "Base 48\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "plural08",
+    "line 1": "Top 60\"w X 36\"h X 6\"d",
+    "line 2": "Base 84\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "plural09",
+    "line 1": "Top 105\"w X 84\"h X 8\"d",
+    "line 2": "Base 105\"w X 6\"h X 24\"d"
+  },
+  {
+    "Model": "plural10",
+    "line 1": "Top 62\"w X 54\"h X 6\"d",
+    "line 2": "Base 72\"w X 6\"h X 14\"d"
+  },
+  {
+    "Model": "plural11",
+    "line 1": "Top 60\"w X 42\"h X 6\"d",
+    "line 2": "Base 84\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "standard_18x18",
+    "line 1": "Top 18\"w X 18\"h X 6\"d",
+    "line 2": "Base 30\"w X 6\"h X 10\"d"
+  },
+  {
+    "Model": "standard_24x24",
+    "line 1": "Top 24\"w X 24\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "standard_24x30",
+    "line 1": "Top 24\"w X 30\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "standard_42x24",
+    "line 1": "Top 42\"w X 24\"h X 6\"d",
+    "line 2": "Base 54\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "standard_48x24",
+    "line 1": "Top 48\"w X 24\"h X 6\"d",
+    "line 2": "Base 66\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "standard_60x30",
+    "line 1": "Top 60\"w X 30\"h X 8\"d",
+    "line 2": "Base 82\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "standard_72x32",
+    "line 1": "Top 72\"w X 32\"h X 8\"d",
+    "line 2": "Base 82\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue01",
+    "line 1": "Top 30\"w X 30\"h X 8\"d",
+    "line 2": "Base 36\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue02",
+    "line 1": "Top 30\"w X 36\"h X 8\"d",
+    "line 2": "Base 36\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "statue03",
+    "line 1": "Top 32\"w X 34\"h X 8\"d",
+    "line 2": "Base 36\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "statue04",
+    "line 1": "Top 55\"w X 32\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "statue05",
+    "line 1": "Top 36\"w X 39\"h X 8\"d",
+    "line 2": "Base 48\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue06",
+    "line 1": "Top 24\"w X 24\"h X 8\"d",
+    "line 2": "Base 36\"w X 12\"h X 12\"d"
+  },
+  {
+    "Model": "statue07",
+    "line 1": "Top 32\"w X 42\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue08",
+    "line 1": "Top 24\"w X 40\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue09",
+    "line 1": "Top 24\"w X 40\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue10",
+    "line 1": "Top 24\"w X 38\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue11",
+    "line 1": "Top 24\"w X 42\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue12",
+    "line 1": "Top 24\"w X 34\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue13",
+    "line 1": "Top 30\"w X 28\"h X 8\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue14",
+    "line 1": "Top 26\"w X 32\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue15",
+    "line 1": "Top 26\"w X 32\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue16",
+    "line 1": "Top 24\"w X 36\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue17",
+    "line 1": "Top 30\"w X 37\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue18",
+    "line 1": "Top 36\"w X 36\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue19",
+    "line 1": "Top 28\"w X 30\"h X 6\"d",
+    "line 2": "Base 36\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue19D",
+    "line 1": "Top 48\"w X 36\"h X 6\"d",
+    "line 2": "Base 60\"w X 6\"h X 12\"d"
+  },
+  {
+    "Model": "statue20",
+    "line 1": "Top 30\"w X 30\"h X 8\"d",
+    "line 2": "Base 36\"w X 8\"h X 12\"d"
+  },
+  {
+    "Model": "statue21",
+    "line 1": "Top 28\"w X 40\"h X 8\"d",
+    "line 2": "Base 36\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue21D",
+    "line 1": "Top 36\"w X 48\"h X 8\"d",
+    "line 2": "Base 48\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue22",
+    "line 1": "16\"w X 39\"h X 36\"d",
+    "line 2": ""
+  },
+  {
+    "Model": "statue23",
+    "line 1": "Top 48\"w X 68\"h X 8\"d",
+    "line 2": "Base 84\"w X 22\"h X 20\"d"
+  },
+  {
+    "Model": "statue24",
+    "line 1": "Top 48\"w X 53\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue25",
+    "line 1": "Top 41\"w X 36\"h X 8\"d",
+    "line 2": "Base 54\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue26",
+    "line 1": "Top 42\"w X 15\"h X 14\"d",
+    "line 2": "Base 72\"w X 9\"h X 44\"d"
+  },
+  {
+    "Model": "statue27",
+    "line 1": "Top 36\"w X 48\"h X 8\"d",
+    "line 2": "Base 54\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue28",
+    "line 1": "Top 48\"w X 60\"h X 8\"d",
+    "line 2": "Base 66\"w X 8\"h X 14\"d"
+  },
+  {
+    "Model": "statue29",
+    "line 1": "Top 65\"w X 48\"h X 8\"d",
+    "line 2": "Base 84\"w X 8\"h X 14\"d"
+  }
+]
